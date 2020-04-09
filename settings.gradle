@@ -1,0 +1,8 @@
+rootProject.name = 'spring-warehouse'
+include 'product-service'
+include 'order-service'
+include 'eureka-service'
+include 'edge-service'
+include 'kafka-demo'
+include 'security-simple'
+include 'session-server'

@@ -1,0 +1,8 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: edge-server
+  sleuth:
+    sampler:
+      probability: 1.0
